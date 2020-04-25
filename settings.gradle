@@ -1,0 +1,2 @@
+rootProject.name='AppCompatTextField'
+include ':app'
